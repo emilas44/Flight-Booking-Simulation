@@ -73,8 +73,6 @@ public class Main {
         Table.showTable(rTable);
         System.out.println();
         Table.showTable(sTable);
-        int a = 2;
-        System.out.println(a);
  
 		
 	}
