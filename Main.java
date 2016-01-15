@@ -73,6 +73,7 @@ public class Main {
         Table.showTable(rTable);
         System.out.println();
         Table.showTable(sTable);
+        // test
  
 		
 	}
