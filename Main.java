@@ -71,6 +71,8 @@ public class Main {
         Transaction.myReservations("Abbie", rTable);
         
         Table.showTable(rTable);
+        System.out.println();
+        Table.showTable(sTable);
  
 		
 	}
